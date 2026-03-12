@@ -2,4 +2,4 @@
 
 - [x] Wymowa
 - [x] Ortografia
-- [ ] Słownictwo wiadomości prasowych
+- [>] Słownictwo wiadomości prasowych

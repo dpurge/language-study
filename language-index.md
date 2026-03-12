@@ -1,6 +1,6 @@
 # Lekcje jezykowe
 
-Moim jezykiem ojczystym jest język polski.
+Moim językiem ojczystym jest język polski.
 
 | Język     | Folder       |
 |-----------|--------------|
