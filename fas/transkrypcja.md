@@ -1,0 +1,63 @@
+# Transkrypcja
+
+سر sar
+سار sār
+سر ser
+سور sur
+سر sor
+سیر sir
+
+چهار čahār
+خوب xub
+ژاله žāle
+شب šab
+غار ġār
+قلم qalam
+قوری quri
+
+نژاد nežād
+نزهت nazhat
+
+معمار me’mār
+سؤال so’ā
+عمر omr
+امر amr
+اسم esm
+
+اشیاء ašiyā’
+اَلم alam
+پرستش parasteš
+پرستو parastū
+پرسش porseš
+پستو pastu
+تحمّل tahammol
+ترسو tarsu
+چانه čāne
+خاک xāk
+دالان dālān
+دیوانه divāne
+راسو rāsu
+روانه ravāne
+ژاله žāle
+سردار sardār
+شیء šey’
+طلب talab
+طمع tama’
+ظلم zolm
+عَلم alam
+غمگین ġamgin
+قرص qors
+قلب qalb
+قرض qarz
+کوشش kušeš
+کوه kuh
+لادن lādan
+لانه lāne
+محمّد Mohammad
+مریض mariz
+معلّم mo’allem
+مهربان mehrabān
+نالان nālān
+ناله nāle
+ویرانه virāne
+هدایت hedāyat

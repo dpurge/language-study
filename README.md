@@ -15,3 +15,5 @@ I plan to test it on various languages and various language models to see the qu
 I copy a short text from the internet and simply tell the model to create a lesson for me.
 
 The output format is such that I can easily copy it to my other tools to compile it to Anki packages that I can import to AnkiDroid.
+
+Be aware that the generated output does contain errors - but I find it usable.
